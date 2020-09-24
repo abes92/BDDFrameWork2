@@ -1,0 +1,40 @@
+package homePage;
+
+public class HomePageWebElement {
+    public static final String webElementBook="/html/body/jb-app/jb-header/jb-header-desktop/div[2]/div/div/jb-subnav-desktop/div/ul/li[1]/a";
+    public static final String webElementTravelInfo="/html/body/jb-app/jb-header/jb-header-desktop/div[2]/div/div/jb-subnav-desktop/div/ul/li[2]/a";
+    public static final String webElementMyTrip="/html/body/jb-app/jb-header/jb-header-desktop/div[2]/div/div/jb-subnav-desktop/div/ul/li[3]/a";
+    public static final String webElementTrueBlue="/html/body/jb-app/jb-header/jb-header-desktop/div[2]/div/div/jb-subnav-desktop/div/ul/li[4]/a";
+    public static final String webElementSignIn="/html/body/jb-app/jb-header/jb-header-desktop/div[2]/div/div/jb-subnav-desktop/div/div/span[1]/a";
+    public static final String webElementEmail="#login-email_tncw9flim";
+    public static final String webElementPassword="//*[@id=\"password-email_yteicuoff\"]";
+    public static final String webElementVerifySignIn="/html/body/jb-app/jb-basic-template/div/div/jb-sign-in-page/div/div[2]/div/jb-trueblue/div/h1";
+    public static final String webElementLogIn="/html/body/jb-app/jb-basic-template/div/div/jb-sign-in-page/div/div[1]/div/div[1]/jb-logo/a/img";
+    public static final String webElementTravelBankCredit="/html/body/jb-app/jb-header/jb-header-desktop/div[1]/div/ul/li[1]/a";
+    public static final String webElementCheckIn=" public static final String webElement";
+    public static final String webElementFlightTracker="/html/body/jb-app/jb-header/jb-header-desktop/div[1]/div/ul/li[3]/a";
+    public static final String webElementTravelAlerts="/html/body/jb-app/jb-header/jb-header-desktop/div[1]/div/ul/li[4]/a";
+    public static final String webElementJoin="/html/body/jb-app/jb-header/jb-header-desktop/div[2]/div/div/jb-subnav-desktop/div/div/span[3]/a";
+    public static final String webElementEmail1="//*[@id=\"email\"]";
+    public static final String webElementNext="/html/body/mp-root/div/app-quick-enroll-process/div/mp-check-email/div/div/form/button";
+    public static final String webElementFN="//*[@id=\"fname\"]";
+    public static final String webElementMN="//*[@id=\"mname\"]";
+    public static final String webElementLN="//*[@id=\"lname\"]";
+    //public static final String webElementPHN="form-control phone-input is-invalid";
+    public static final String webElementNext2="/html/body/mp-root/div/app-quick-enroll-process/div/mp-join-us/mp-quick-enrollment/div[2]/form/div/div[4]/div/button";
+    public static final String webElementRoundTrip="//*[@id=\"jb-tabpanel-id-0\"]/jb-booker-tabs-wrapper/div/jb-booker-air-wrapper/div/jb-booker-air/form/div/div[1]/jb-radio-group/fieldset/div/jb-radio[1]/label/div[1]";
+    public static final String webElementFromWhere="//*[@id=\"city-selector_ouhflwnze\"]";
+    public static final String webElementToWhere="//*[@id=\"city-selector_h490f34ri\"]";
+    public static final String webElementGo="/html/body/jb-app/jb-basic-template/div/div/jb-section-header-container/div/div/div[1]/div/jb-section-container/div/div/jb-book-trip-container/jb-pattern-block/div/div[2]/div/div/a";
+    public static final String webElementWeather="/html/body/jb-app/jb-basic-template/div/div/jb-page-header-container/div/div/div/jb-page-header/div/div[2]/jb-chapter-selector/ul/li[2]/a";
+    public static final String webElementFeeWeather="//*[@id=\"jb-expansion-panel-id-392\"]/jb-expansion-panel-header";
+    public static final String webElementFeeWeatherLink="//*[@id=\"jb-expansion-panel-content-id-209\"]/jb-expansion-panel-row/section/jb-body-text-container/jb-body-text/div/jb-inner-html/a[1]";
+    public static final String webElementVerifyWeather="/html/body/jb-app/jb-basic-template/div/div/jb-page-header-container/div/div/div/jb-page-header/div/div[1]/h1";
+    public static final String webElementCancelled="/html/body/jb-app/jb-basic-template/div/div/jb-page-header-container/div/div/div/jb-page-header/div/div[2]/jb-chapter-selector/ul/li[3]/a";
+    public static final String webElementChanged="/html/body/jb-app/jb-basic-template/div/div/jb-page-header-container/div/div/div/jb-page-header/div/div[2]/jb-chapter-selector/ul/li[4]/a";
+    public static final String webElementVoluntary="/html/body/jb-app/jb-basic-template/div/div/jb-page-header-container/div/div/div/jb-page-header/div/div[2]/jb-chapter-selector/ul/li[5]/a";
+    public static final String webElementOthers="/html/body/jb-app/jb-basic-template/div/div/jb-page-header-container/div/div/div/jb-page-header/div/div[2]/jb-chapter-selector/ul/li[6]/a";
+    public static final String webElementManage="//*[@id=\"subnav-wrapper_xm5lr2gyb-2\"]/div/div/div/ul/li[1]/jb-bubble-link/a/span/span";
+    public static final String webElementVerifyManage="//*[@id=\"container\"]/div[2]/div[1]/div[1]/div[1]/div/h2";
+    public static final String webElementFlyingWUs="//*[@id=\"subnav-wrapper_r1fflgz3x-1\"]/div/div[1]/div[1]/jb-icon-link/a/span";
+}
